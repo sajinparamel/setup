@@ -5,3 +5,8 @@ currency-service:
    url: http://sajin.paramel.com
    username: vishnupriya
    key: paaru
+management:
+   endpoints:
+      web:
+         exposure:
+            include: "*"
