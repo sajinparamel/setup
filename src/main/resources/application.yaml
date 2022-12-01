@@ -1,0 +1,10 @@
+logging:
+   level:
+      org.springframework: DEBUG
+currency-service:
+   url: http://sajin.paramel.com
+   username: vishnupriya
+   key: kannan
+spring:
+   profiles:
+      active: prod
